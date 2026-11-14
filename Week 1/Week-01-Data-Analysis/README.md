@@ -3,25 +3,26 @@
 
 ## Task Overview
 
-This task focuses on developing practical data analysis skills through the collection, cleaning, preparation and exploration of a publicly available dataset.
+This task focuses on developing practical data analysis skills through data collection, cleaning, preparation, and exploration of a publicly available dataset.
 
 ## Business Scenario
 
-A fictional online retail business wants to understand its sales performance, identify purchasing trends and discover opportunities to improve business decisions.
+A fictional online retail business wants to understand its sales performance, identify purchasing trends, and discover opportunities to improve business decisions.
 
 ## Dataset
 
-- **Name:** Online Retail Dataset
-- **Source:** UCI Machine Learning Repository
+- **Name:** Global E-Commerce Sales Analysis (2025)
+- **Year:** 2025
 - **Domain:** Retail and E-commerce
-- **Dataset URL:** https://archive.ics.uci.edu/dataset/352/online+retail
+- **Dataset Source:** Public dataset
+- **Dataset Link:** Add the original download URL here.
 
 ## Objectives
 
-1. Identify and understand the selected dataset.
+1. Understand the selected dataset and its structure.
 2. Perform data cleaning and preparation.
 3. Conduct exploratory data analysis.
-4. Identify significant sales trends.
+4. Identify significant sales trends and patterns.
 5. Develop actionable business insights.
 
 ## Tools
@@ -41,4 +42,3 @@ A fictional online retail business wants to understand its sales performance, id
 ## Progress
 
 **Status:** In Progress
-
